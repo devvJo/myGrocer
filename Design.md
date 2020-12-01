@@ -6,8 +6,9 @@
 MyChef
 
 ### project members
-- Joseph B.
 - Bala K.
+- Joseph B.
+- Reinhart W.
 
 ## Objective
 
